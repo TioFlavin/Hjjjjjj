@@ -1,0 +1,2 @@
+[26-May-2022 06:15:40 UTC] PHP Warning:  Use of undefined constant HTTP_USER_AGENT - assumed 'HTTP_USER_AGENT' (this will throw an Error in a future version of PHP) in /home/tpanels/public_html/adspanel/api/index.php on line 155
+[26-May-2022 06:30:24 UTC] PHP Warning:  Use of undefined constant HTTP_USER_AGENT - assumed 'HTTP_USER_AGENT' (this will throw an Error in a future version of PHP) in /home/tpanels/public_html/adspanel/api/index.php on line 155
